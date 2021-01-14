@@ -1,0 +1,112 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'Roboto', sans-serif;
+}
+img{
+  width: 50px;
+  vertical-align: text-bottom;
+}
+
+#logo-text{
+  display: inline-block;
+}
+
+header{
+  height: 70px;
+  background-color: white;
+  border-top: 1px solid lightgray;
+  padding: 10px;
+  margin-top: 50px;
+  margin-bottom: 40px;
+}
+
+.container{
+  width:70%;
+  margin: auto;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid white;
+}
+.primo{
+  background-color: #6f92dc;
+  color: white;
+  border:1px solid #6f92dc;e
+  border-radius: 25%;
+  padding: 5px;
+}
+
+.secondo{
+  background-color: lightgray;
+  color: white;
+  border:1px solid lightgray;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+.bottoni{
+  border-bottom: 1px solid lightgray;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+li{
+  list-style: none;
+  padding: 10px;
+}
+
+h3{
+  display: inline-block;
+}
+
+.color{
+  color: #6f92dc;
+  display: inline-block;
+}
+.editorial{
+  background-color: #6f92dc;
+  color: white;
+  border:1px solid #6f92dc;
+  border-radius: 15px;
+  padding: 5px;
+}
+
+.viola{
+  background-color: purple;
+  border: 1px solid purple;
+}
+
+.due{
+  color: red;
+}
+.orange{
+  background-color: orange;
+  border: 1px solid orange;
+}
+
+
+.tre{
+  color: green;
+}
+
+.quattro{
+  color: pink;
+}
+
+.lightgreen{
+  background-color: lightgreen
+  border: 1px solid lightgreen;
+}
+
+.yellow{
+  background-color: yellow;
+  border: 1px solid yellow;
+}
+
+.rosso{
+  background-color: red;
+  border: 1px solid red;
