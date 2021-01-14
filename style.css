@@ -110,3 +110,19 @@ h3{
 .rosso{
   background-color: red;
   border: 1px solid red;
+
+
+footer{
+margin-top: 40px;
+text-align: center;
+}
+
+
+.required{
+    margin-bottom: 15px;
+}
+
+
+.invio{
+    margin-top:15px;
+}
