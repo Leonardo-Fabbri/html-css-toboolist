@@ -110,19 +110,29 @@ h3{
 .rosso{
   background-color: red;
   border: 1px solid red;
-
-
-footer{
-margin-top: 40px;
-text-align: center;
 }
 
+
+.piede{
+  margin: auto;
+  width: 200px;
+  height: 100px;
+  border: 2px solid red;
+  border-color: red;
+  background-color: orange;
+}
 
 .required{
-    margin-bottom: 15px;
+  margin-bottom: 5px;
+  text-align: center;
+  margin-top: 10px;
+}
+.password{
+  border-bottom: 15px;
+  text-align: center;
 }
 
-
 .invio{
-    margin-top:15px;
+  margin-top:5px;
+  text-align: center;
 }
